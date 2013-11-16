@@ -1,0 +1,69 @@
+.filename {
+	font-family: courier, monospace;
+}
+
+.command, .prompt {
+	font-weight: bold;
+}
+
+.note {
+	border: solid;
+	border-width: 2px;
+	border-color: green;
+	padding-left: 15px;
+	padding-right: 15px;
+}
+
+pre.programlisting {
+	background-color: #F0F0F0;
+	padding: 6px;
+}
+
+pre.screen {
+	background-color: #F0F0F0;
+	padding: 6px;
+}
+
+.application {font-family: Courier New; font-variant: small-caps;}
+
+tr { margin: 0.2em; padding: 0.2em; }
+ 
+.variablelist {
+	background-color: #F0F0F0;
+	padding: 6px;
+}
+
+.variablelist tr { margin: 0.2em;padding: 0.2em;}
+
+.variablelist td { vertical-align:top; padding-top: 0.3em;padding-bottom:0.3em;}
+
+table td { vertical-align:top; padding: 0.5em;}
+
+td { background-color: #F0F0F0;  }
+
+.toc {
+	background-color: #F0F0F0;
+	padding: 6px;
+}
+
+.term { font-weight: bold;
+	padding-right: 2em;
+        }
+
+.equation { margin: 0.2em; padding: 0.2em; }
+
+.equation {  text-align:center; }
+
+.vector { font-weight: bold }
+
+td > p { margin: 0; padding:0;}
+
+p + p { margin-top: 0.8em; }
+
+div.example { 
+              border: solid; 
+              border-width: 1px;
+              background-color: #E0F0FF;
+              padding-left: 10px;
+              padding-right: 10px;
+}
